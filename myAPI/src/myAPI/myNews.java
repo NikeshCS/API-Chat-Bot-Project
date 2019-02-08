@@ -4,9 +4,6 @@ package myAPI;
  * News Bot - Retrieves information on a random latest article from the newsapi.org
  * Make web requests to receive data from open weather map and create an interfaceable chat bot. 
  * @Author: Nikesh Patel
- * @Section #: 502
- * @Date: 11/12/2017
- * @Professor: Ziaullah Khan
  */
 
 import java.io.BufferedReader;
