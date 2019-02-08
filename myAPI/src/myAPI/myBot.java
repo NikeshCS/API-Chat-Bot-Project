@@ -4,9 +4,6 @@ package myAPI;
  * myWeather bot is a weather bot which prompts the user to input an action that it can perform.
  * myNews bot is a news bot which prompts the user to input an action that it can perform.
  * @Author: Nikesh Patel
- * @Section #: 502
- * @Date: 11/12/2017
- * @Professor: Ziaullah Khan
  */
 
 public class myBot 
